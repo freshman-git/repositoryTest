@@ -5,6 +5,6 @@ public class left {
         new left().print();
     }
     public void  print(){
-        System.out.println("left");
+        System.out.println("left-brahch");
     }
 }
