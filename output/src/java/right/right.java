@@ -5,6 +5,6 @@ public class right {
         new right().print();
     }
     public void  print(){
-        System.out.println("right");
+        System.out.println("right-branch");
     }
 }
