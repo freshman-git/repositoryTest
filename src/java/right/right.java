@@ -5,6 +5,6 @@ public class right {
         new right().print();
     }
     public void  print(){
-        System.out.println("left");
+        System.out.println("right");
     }
 }
